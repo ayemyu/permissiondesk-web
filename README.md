@@ -1,2 +1,2 @@
-# permissiondesk-web
-artist management website
+# permissiondesk
+permissiondesk website
